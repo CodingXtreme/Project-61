@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Blackadder ITC;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Forte;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: white;
+}
+
+#origami1{
+   background-color:aliceblue;
+}
+
+
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: snow;
+    background-color: black;
+    text-shadow: none
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p{
+    font-family: Ink Free;
+    font-weight: bold;
+}
